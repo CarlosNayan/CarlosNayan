@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Curiosidade: nunca imaginei que iria gostar tanto de programação
 - 📫 Onde me achar: IG @carls_nayan
 
+<p align="center"> developed by CarlosNayan (Yokai)👻 </p>
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
