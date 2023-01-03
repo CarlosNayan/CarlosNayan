@@ -10,3 +10,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I never thought I would enjoy programming so much.
 - 📫 How to reach me: IG @carls_nayan
 
+### Olá!
+
+- 🔭 Atualmente estou trabalhando em meus projetos para portfólio
+- 🌱 Atualmente estou aprendendo tecnologias Front-end
+- ⚡ Curiosidade: nunca imaginei que iria gostar tanto de programação
+
