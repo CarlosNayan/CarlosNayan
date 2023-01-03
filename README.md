@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 🔭 Atualmente estou trabalhando em meus projetos para portfólio
 - 🌱 Atualmente estou aprendendo tecnologias Front-end
 - ⚡ Curiosidade: nunca imaginei que iria gostar tanto de programação
+- 📫 Onde me achar: IG @carls_nayan
 
