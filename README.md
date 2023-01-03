@@ -8,4 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my portfolio projects
 - 🌱 I’m currently learning Front-end technologies
 - ⚡ Fun fact: I never thought I would enjoy programming so much.
+- 📫 How to reach me: IG @carls_nayan
 
