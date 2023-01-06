@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 <img align="left" height="30" src="https://raw.githubusercontent.com/CarlosNayan/CarlosNayan/master/assets/react.png">
 <img align="left" height="30" src="https://raw.githubusercontent.com/CarlosNayan/CarlosNayan/master/assets/git.png">
 </br>
+</br>
+</br>
 <p style= "align:center"> Text developed by Carlos Nayan (Yokai)👻 </p>
