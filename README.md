@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <img align="left" height="30" src="https://raw.githubusercontent.com/CarlosNayan/CarlosNayan/master/assets/git.png">
 </br>
 </br>
+<img align="center" height="30" src="https://raw.githubusercontent.com/CarlosNayan/CarlosNayan/master/assets/d1kvdrz-427bac7e-4ec6-4262-ace1-7556d5967176.gif">
 </br>
 <p align="center"> Text developed by CarlosNayan (Yokai)👻 </p>
 
