@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 </br>
 </br>
 </br>
-<p style= "text-align:center"> Text developed by Carlos Nayan (Yokai)👻 </p>
+<p style= "text-align: center;"> Text developed by Carlos Nayan (Yokai)👻 </p>
