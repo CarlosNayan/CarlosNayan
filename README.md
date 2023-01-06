@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 </br>
 </br>
 </br>
-<p style="color:red;"> Text developed by Carlos Nayan (Yokai)👻 </p>
+<p align="center"> Text developed by CarlosNayan (Yokai)👻 </p>
