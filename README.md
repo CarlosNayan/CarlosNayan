@@ -5,17 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my portfolio projects
-- 🌱 I’m currently learning Front-end technologies
-- ⚡ Fun fact: I never thought I would enjoy programming so much.
-- 📫 How to reach me: IG @carls_nayan
-
 ### Olá! 👋
 
 - 🔭 Atualmente estou trabalhando em meus projetos para portfólio
-- 🌱 Atualmente estou aprendendo tecnologias Front-end
-- ⚡ Curiosidade: nunca imaginei que iria gostar tanto de programação
+- 🌱 Atualmente estou aprendendo integrações entre o Front e o Back-end
 - 📫 Onde me achar: IG @carls_nayan
+- 📑 portifólio: https://portifolio-dev-carlosnayan.vercel.app
 
 **Languages and tools:**
 
