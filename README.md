@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🔭 Atualmente estou estagiando como desenvolvedor de Software
 - 🌱 Estou aprendendo integrações entre o Front e o Back-end e construções de API
 - 📫 Onde me achar: IG @carls_nayan
-- 📑 portifólio: https://portifolio-dev-carlosnayan.vercel.app
 
 **Languages and tools:**
 
