@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 
 **Languages and tools:**
 
-<img align="left" height="30" src="https://raw.githubusercontent.com/CarlosNayan/CarlosNayan/master/assets/javascript-logo-0.png">
-<img align="left" height="30" src="https://raw.githubusercontent.com/CarlosNayan/CarlosNayan/master/assets/typescript.png">
-<img align="left" height="30" src="https://raw.githubusercontent.com/CarlosNayan/CarlosNayan/master/assets/nodejs.png">
-<img align="left" height="30" src="https://raw.githubusercontent.com/CarlosNayan/CarlosNayan/master/assets/react.png">
-<img align="left" height="30" src="https://raw.githubusercontent.com/CarlosNayan/CarlosNayan/master/assets/git.png">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
 </br>
 </br>
 </br>
 <p align="center"> Text developed by CarlosNayan (Yokai)👻 </p>
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
