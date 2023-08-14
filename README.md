@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-### Olá! 👋
+### Hello! 👋
 
-- 🔭 Atualmente estou estagiando como desenvolvedor de Software
-- 🌱 Estou aprendendo integrações entre o Front e o Back-end e construções de API
-- 📫 Onde me achar: IG @carls_nayan
+- 🔭 Full stack developer at Inside the box
+- 🌱 I'm currently learning more about API builds and unit testing
+- 📫 Where find me: IG @carls_nayan or carlosnayan@gmail.com
 
 **Languages and tools:**
 
