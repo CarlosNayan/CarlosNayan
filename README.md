@@ -1,30 +1,45 @@
-<!--
-**CarlosNayan/CarlosNayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hey, I'm Carlos Nayan!</h1>
+<h3 align="center">🚀 Full Stack Developer | Backend Specialist | Problem Solver</h3>
 
-Here are some ideas to get you started:
--->
-### Hello! 👋
+<p align="center">
+  <a href="https://www.instagram.com/carls_nayan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:carlosnayan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 Full stack developer at Inside the box
-- 📫 Where find me: IG @carls_nayan or carlosnayan@gmail.com
+---
 
-**Languages and tools:**
+### 🌟 About Me
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Carlos-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
-  <img align="center" alt="Carlos-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Carlos-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Carlos-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Carlos-Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carlos-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Carlos-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="Carlos-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg">
-  <img align="center" alt="Carlos-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Carlos-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
-  <img align="center" alt="Carlos-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+- 🔭 **Full Stack Developer** at [Inside the Box](#)
+- 💡 Passionate about building **scalable** and **performant** applications  
+- ⚙️ Backend enthusiast with strong focus on **Go, Node.js & NestJS**
+- 🎯 Always improving skills in **Cloud Infrastructure** & **DevOps**
+- 📚 Currently learning **Kubernetes** and **Microservices Architecture**
+
+---
+
+### 🛠️ Tech Stack
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=linux,postgresql,mysql,go,js,ts,nodejs,nestjs,yarn,react,redux,jest,docker,kubernetes,aws" />
 </div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CarlosNayan&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNayan&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Fun Fact
+> "Code is like humor. When you have to explain it, it’s bad." 😄
+
+---
