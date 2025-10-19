@@ -1,5 +1,5 @@
 <h1 align="center">Carlos Nayan</h1>
-<h3 align="center">Full Stack Developer · Backend Specialist · Problem Solver</h3>
+<h3 align="center">Full Stack Developer · Backend Focused · Problem Solver</h3>
 
 <p align="center">
   <a href="mailto:carlosnayan@gmail.com">
