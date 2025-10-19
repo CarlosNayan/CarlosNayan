@@ -1,45 +1,50 @@
-<h1 align="center">👋 Hey, I'm Carlos Nayan!</h1>
-<h3 align="center">🚀 Full Stack Developer | Backend Specialist | Problem Solver</h3>
+<h1 align="center">Carlos Nayan</h1>
+<h3 align="center">Full Stack Developer · Backend Specialist · Problem Solver</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/carls_nayan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="mailto:carlosnayan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-carlosnayan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/carls_nayan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@carls__nayan-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-### 🌟 About Me
+### 👨‍💻 About Me
 
-- 🔭 **Full Stack Developer** at [Inside the Box](#)
-- 💡 Passionate about building **scalable** and **performant** applications  
-- ⚙️ Backend enthusiast with strong focus on **Go, Node.js & NestJS**
-- 🎯 Always improving skills in **Cloud Infrastructure** & **DevOps**
-- 📚 Currently learning **Kubernetes** and **Microservices Architecture**
-
----
-
-### 🛠️ Tech Stack
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=linux,postgresql,mysql,go,js,ts,nodejs,nestjs,yarn,react,redux,jest,docker,kubernetes,aws" />
-</div>
+- Full Stack Developer at **Inside the Box**
+- Focused on building **scalable**, **performant** and **maintainable** systems  
+- Strong background in **Go**, **Node.js**, and **NestJS**
+- Enthusiastic about **cloud architecture** and **DevOps automation**
+- Currently deepening knowledge in **Kubernetes** and **microservices design**
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 Tech Stack
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CarlosNayan&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNayan&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,nestjs,ts,js,react,redux,jest,postgresql,mysql,docker,kubernetes,aws,linux&perline=7" />
 </p>
 
 ---
 
-### 🚀 Fun Fact
-> "Code is like humor. When you have to explain it, it’s bad." 😄
+### 📈 GitHub Insights
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CarlosNayan&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNayan&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
+
+### 💬 Quote
+
+> “Code is like humor. When you have to explain it, it’s bad.”
+
+---
+
+<p align="center">
+  <sub>Clean code. Scalable systems. Constant learning.</sub>
+</p>
